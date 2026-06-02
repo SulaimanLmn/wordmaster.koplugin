@@ -1,0 +1,20 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Lua related
+*.lc
+
+# KOReader build artifacts (if you include the submodule)
+/koreader/
+
+# Kilo agent config directories (legacy)
+/.kilocode/
+/.opencode/
